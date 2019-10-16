@@ -108,11 +108,11 @@ h1, h2, h3, h4, h5,
   border-top: 1px solid #edf0f5 !important; }
 
 .site-footer {
-  padding: 4em 0;
+  padding: 1em 0;
   background: #333333; }
   @media (min-width: 768px) {
     .site-footer {
-      padding: 5em 0; } }
+      padding: 1em 0; } }
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
@@ -1236,3 +1236,28 @@ h1, h2, h3, h4, h5,
       outline: none; }
   .search-form-wrap form .form-control {
     border: none; }
+
+.bg-php {
+  background-color: #969CC1;
+}
+.bg-mysql {
+  background-color: #F29111;
+}
+.bg-js {
+  background-color: #F8D238;
+}
+.bg-ajax {
+  background-color: #8F2FF6;
+}
+.bg-jquery {
+  background-color: #0769AD;
+}
+.bg-html {
+  background-color: #DE4D25;
+}
+.bg-css {
+  background-color: #23A6DC;
+}
+.bg-bootstrap {
+  background-color: #6A429E;
+}
