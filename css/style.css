@@ -1261,3 +1261,39 @@ h1, h2, h3, h4, h5,
 .bg-bootstrap {
   background-color: #6A429E;
 }
+.bg-csharp {
+  background-color: #641D74;
+}
+.bg-sqlite {
+  background-color: #044A5C;
+}
+.bg-winforms {
+  background-color: #125282;
+}
+.bg-wordpress {
+  background-color: #444444;
+}
+.bg-nodejs {
+  background-color: #026E00;
+}
+.bg-express {
+  background-color: #EFD81D;
+}
+.bg-ejs {
+  background-color: #B4CA65;
+}
+.bg-mongodb {
+  background-color: #12924F;
+}
+.bg-mongoose {
+  background-color: #9F3232;
+}
+.bg-react {
+  background-color: #61DAFB;
+}
+.bg-redux {
+  background-color: #764ABC;
+}
+.bg-api {
+  background-color: #426699;
+}
